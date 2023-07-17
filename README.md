@@ -4,4 +4,4 @@ Data analysis, regression, custom metrics
 # Gold recovery
 ----------------
 привет
-<b> ПУК!👋</b>
+
