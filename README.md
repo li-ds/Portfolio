@@ -1,7 +1,4 @@
+# Iana Li Data Scientist
 # Portfolio
-Data analysis, regression, custom metrics
-## Projects
-# Gold recovery
-----------------
-привет
-
+Here are some of my projects
+## 1 Gold recovery
