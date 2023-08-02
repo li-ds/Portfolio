@@ -4,7 +4,7 @@
 
 The used cars sale service is developing an application to attract new customers. In it, you can quickly find out the market value of your car. Based on historical data, it is necessary to build a model to determine the cost of the car.
 
-### Ход работы:
+### Research steps:
 
 1. Reserch and preprocessing of data.
 2. Preparation of samples for training models using the OHE and OE methods.
