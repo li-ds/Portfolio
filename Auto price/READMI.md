@@ -9,5 +9,5 @@ The used cars sale service is developing an application to attract new customers
 1. Reserch and preprocessing of data.
 2. Preparation of samples for training models using the OHE and OE methods.
 3. 5 models training: LinearRegression, RandomForestRegressor, DecisionTreeRegressor, CatBoostRegressor, LGBMRegressor. Picked the best settings.
-4. Analyzed training time, prediction time and model quality.
-5. The best model was chosen taking into account the training time and prediction, as well as the RMSE value.
+4. Analyze training time, prediction time and model quality.
+5. Choose best model taking into account the training time and prediction, as well as the RMSE value.
