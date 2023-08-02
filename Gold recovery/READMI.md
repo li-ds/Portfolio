@@ -1,4 +1,4 @@
-# Спрогнозировать концентрацию золота
+# Gold concentration forecast
 
 ### Task:
 
