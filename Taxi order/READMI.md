@@ -10,3 +10,11 @@ The taxi company has collected historical data on taxi orders at airports. To at
 2. Preparation of samples for training models.
 3. 4 models training: LinearRegression, Ridge, CatBoostRegressor, LGBMRegressor. Picked the best settings.
 4. Choose best model taking into account the training time and prediction, as well as the RMSE value.
+
+### Conclusion:
+
+The value of the RMSE metric on the test sample should be no more than 48.
+
+The best one turned out to be\
+LGBMRegressor\
+RMSE = 39.434187
